@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/api/client.ts","./src/components/adddocumentmodal.tsx","./src/components/answerpanel.tsx","./src/components/categorychips.tsx","./src/components/documentgrid.tsx","./src/components/sourcedrawer.tsx","../shared/types.ts"],"version":"5.9.3"}
